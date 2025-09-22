@@ -14,6 +14,7 @@ This repository contains a collection of C language programs that I have written
 - Data Structures: Linked lists, Stacks, Queues, Trees, etc.
 - File Handling: Reading from and writing to files.
 - Miscellaneous: Miscellaneous programs showcasing unique features of C.
+- i have included some projects also in C
 
 ## Usage
 Feel free to clone or download the repository and use the programs for your learning and projects. Contributions and improvements are welcome!
